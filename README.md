@@ -8,6 +8,7 @@ Maptiler
 - React JS
 - OSM
 - MapTiler
+- Leaflet
 - Redux Toolkit
 - Ant design (for styling)
 
